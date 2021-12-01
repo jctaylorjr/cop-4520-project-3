@@ -24,7 +24,7 @@ void TIMING_STOP()
 
 void TIMING_PRINT()
 {
-	printf("Timing is: %f ms\n", TIMING_ELAPSED_TIME);
+	printf("******** Total Running Time of All Kernels = %f ms *******\n", TIMING_ELAPSED_TIME);
 }
 
 #endif

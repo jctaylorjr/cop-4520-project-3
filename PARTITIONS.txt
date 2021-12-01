@@ -1,0 +1,8 @@
+partition 0:	offset: 0	number of keys: 110.
+partition 1:	offset: 110	number of keys: 137.
+partition 2:	offset: 247	number of keys: 119.
+partition 3:	offset: 366	number of keys: 112.
+partition 4:	offset: 478	number of keys: 126.
+partition 5:	offset: 604	number of keys: 143.
+partition 6:	offset: 747	number of keys: 130.
+partition 7:	offset: 877	number of keys: 123.
